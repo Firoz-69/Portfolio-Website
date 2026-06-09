@@ -76,18 +76,8 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Firoz-69&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firoz-69&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Firoz-69&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Portfolio
 
