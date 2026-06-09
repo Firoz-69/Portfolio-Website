@@ -4,7 +4,7 @@ export default function Contact() {
   return (
     <section id="contact" className="py-32 border-t border-slate-800/50 flex flex-col items-center text-center">
       <h2 className="text-sm font-mono text-brand-400 mb-4 tracking-widest uppercase">
-        04. What's Next?
+        05. What's Next?
       </h2>
       
       <h3 className="text-4xl md:text-5xl font-bold text-white mb-6">

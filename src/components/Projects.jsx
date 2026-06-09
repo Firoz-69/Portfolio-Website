@@ -7,7 +7,15 @@ const projects = [
     tags: ['React', 'Node.js', 'WebSockets'],
     color: 'from-blue-500/20 to-cyan-500/20',
     borderColor: 'group-hover:border-blue-500/50',
-    link: '#'
+    link: 'https://firoz-69.github.io/Chat-app/'
+  },
+  {
+    title: 'Lumiere',
+    description: 'A creative AI-powered project exploring generative media and intelligent visual experiences. Built with modern web technologies and integrated AI capabilities.',
+    tags: ['React', 'Generative AI', 'JavaScript'],
+    color: 'from-amber-500/20 to-orange-500/20',
+    borderColor: 'group-hover:border-amber-500/50',
+    link: 'https://github.com/Firoz-69/Lumiere'
   },
   {
     title: 'AI Persona',
